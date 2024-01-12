@@ -1,0 +1,6 @@
+public class Anotherfile{
+    public static void main(string [] args){
+        system.out.println("HOLA MUNDO");
+        system.err.println(":<");
+    }
+}
